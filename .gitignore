@@ -1,0 +1,17 @@
+venv/*
+venv/bin venv/include venv/lib venv/pip-selfcheck.json
+config.ini
+__pacache__/
+config.ini
+.idea/
+.ipynb_checkpoints/
+sql.pyc sygic_city.pyc
+city_info.csv output.csv
+table.rtfd/
+data cleaning/Datacleaning.pyc data cleaning/pullData.pyc
+api_data_to_database/city_location.csv data cleaning/poi_cityid_add.csv
+./city_info.csv ./output.csv
+**/*.csv
+**/*.pyc
+**/__pycache__/
+**/venv/
