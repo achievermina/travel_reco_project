@@ -15,3 +15,4 @@ api_data_to_database/city_location.csv data cleaning/poi_cityid_add.csv
 **/*.pyc
 **/__pycache__/
 **/venv/
+**/config.ini
