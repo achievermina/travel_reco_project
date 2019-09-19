@@ -1,3 +1,6 @@
+* Currently developing a new version at Knowhere. Pre-launch. Knowhere suggests a travel destination based on user preferences, budget, and dates using ML recommendation algorithm.
+
+
 # travel_recommendation_project
 
 ##### We Decide Where You Go
