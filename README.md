@@ -15,7 +15,7 @@
 - Redis MySQL
 - EC2
 
-# LINK
+# LINK(Currently Blocked)
 [Mina's Website](http://achievermina.ga/apps/search).
 
 
